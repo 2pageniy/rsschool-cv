@@ -42,3 +42,6 @@ function isPangram(string){
 * **FreeCodeCamp:** [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/2pageniy/javascript-algorithms-and-data-structures)
 * **HTML Academy:** [My Profile](https://htmlacademy.ru/profile/id1669841) (56% total progress)
 * **Modern JavaScript Tutorial:** learnjavascript.ru (1 part)
+
+## English
+Level A2
