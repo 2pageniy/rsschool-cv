@@ -29,3 +29,11 @@ function isPangram(string){
   return uniqueLetters.length === 26
 }
 ```
+
+## Work experience
+1. Project [Cat's Pinterest](https://2pageniy.github.io/frontend-challenge/).<br>
+    Skills: JavaScript, React, API.
+
+2. Project [Collections](https://immense-eyrie-26368.herokuapp.com).<br>
+    Skills: PHP, Framework Symfony, CSS, Bootstrap, Twig, Database MySQL.
+
