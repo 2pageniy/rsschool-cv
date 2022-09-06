@@ -1,1 +1,1 @@
-https://2pageniy.github.io/rsschool-cv/cv
+https://2pageniy.github.io/rsschool-cv/
